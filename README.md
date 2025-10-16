@@ -44,4 +44,4 @@ Our analysis showed that the combination of **Common Spatial Pattern (CSP)** for
     ```bash
     jupyter notebook
     ```
-3.  Open the `Brain_Activity.ipynb` notebook and run all the cells sequentially from top to bottom to replicate the analysis and results.
+3.  Open the `FINAL_MODEL.ipynb` notebook and run all the cells sequentially from top to bottom to replicate the analysis and results.
